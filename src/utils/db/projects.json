@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Math Project",
+      "description": "A project to enhance mathematical skills.",
+      "bannerImage": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg",
+      "domain": "Mathematics",
+      "teacherName": "John Doe"
+    },
+    {
+      "id": 2,
+      "name": "Science Fair",
+      "description": "A science fair to explore new experiments.",
+      "bannerImage": "https://easydrawingguides.com/wp-content/uploads/2018/08/how-to-draw-school-books-featured-image-1200.png",
+      "domain": "Science",
+      "teacherName": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "name": "History Project",
+      "description": "A project to delve into historical events and their impacts.",
+      "bannerImage": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg",
+      "domain": "History",
+      "teacherName": "Emily Johnson"
+    },
+    {
+      "id": 4,
+      "name": "Math Project",
+      "description": "A project to enhance mathematical skills.",
+      "bannerImage": "https://easydrawingguides.com/wp-content/uploads/2018/08/how-to-draw-school-books-featured-image-1200.png",
+      "domain": "Mathematics",
+      "teacherName": "John Doe"
+    },
+    {
+      "id": 5,
+      "name": "Science Fair",
+      "description": "A science fair to explore new experiments.",
+      "bannerImage": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg",
+      "domain": "Science",
+      "teacherName": "Jane Smith"
+    },
+    {
+      "id": 6,
+      "name": "History Project",
+      "description": "A project to delve into historical events and their impacts.",
+      "bannerImage": "https://easydrawingguides.com/wp-content/uploads/2018/08/how-to-draw-school-books-featured-image-1200.png",
+      "domain": "History",
+      "teacherName": "Emily Johnson"
+    }
+  ]
+}

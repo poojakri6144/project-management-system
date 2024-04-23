@@ -1,0 +1,114 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "role": "teacher",
+        "projects": ["Math Project", "Science Fair"]
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "role": "teacher",
+        "projects": ["History Project", "Literature Essay"]
+      },
+      {
+        "id": 3,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "role": "teacher",
+        "projects": ["Math Project", "Science Fair"]
+      },
+      {
+        "id": 4,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "role": "teacher",
+        "projects": ["History Project", "Literature Essay"]
+      },
+      {
+        "id": 5,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "role": "teacher",
+        "projects": ["Math Project", "Science Fair"]
+      },
+      {
+        "id": 6,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "role": "teacher",
+        "projects": ["History Project", "Literature Essay"]
+      },
+      {
+        "id": 101,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "role": "student",
+        "enrolledProjects": ["Math Project"]
+      },
+      {
+        "id": 102,
+        "name": "Bob Brown",
+        "email": "bob.brown@example.com",
+        "role": "student",
+        "enrolledProjects": ["Science Fair", "History Project"]
+      },
+      {
+        "id": 103,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "role": "student",
+        "enrolledProjects": ["Math Project"]
+      },
+      {
+        "id": 104,
+        "name": "Bob Brown",
+        "email": "bob.brown@example.com",
+        "role": "student",
+        "enrolledProjects": ["Science Fair", "History Project"]
+      }, {
+        "id": 105,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "role": "student",
+        "enrolledProjects": ["Math Project"]
+      },
+      {
+        "id": 106,
+        "name": "Bob Brown",
+        "email": "bob.brown@example.com",
+        "role": "student",
+        "enrolledProjects": ["Science Fair", "History Project"]
+      }, {
+        "id": 107,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "role": "student",
+        "enrolledProjects": ["Math Project"]
+      },
+      {
+        "id": 108,
+        "name": "Bob Brown",
+        "email": "bob.brown@example.com",
+        "role": "student",
+        "enrolledProjects": ["Science Fair", "History Project"]
+      }, {
+        "id": 109,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "role": "student",
+        "enrolledProjects": ["Math Project"]
+      },
+   
+      {
+        "id": 201,
+        "name": "Charlie Green",
+        "email": "charlie.green@example.com",
+        "role": "admin"
+      }
+    ]
+  }
+  
